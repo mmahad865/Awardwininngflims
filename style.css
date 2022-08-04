@@ -1,0 +1,14 @@
+header {
+    color: rgb(68, 9, 110);
+    display: inline-block;
+    text-align: center;
+}
+h1 {
+    border: 1px blue;
+    display: inline-block;
+}
+main {
+    width: 960px;
+
+    margin: 30px auto;
+}
