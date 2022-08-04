@@ -12,3 +12,21 @@ main {
 
     margin: 30px auto;
 }
+nav {
+    display: inline-block;
+
+}
+
+nav ul {
+    padding: 0;
+
+    margin: 0 20px;
+
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+
+    margin: 15px;
+}
